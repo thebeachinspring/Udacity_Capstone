@@ -5,6 +5,7 @@
 1. [Summary](#summary)
 2. [Data Files](#files)
 3. [Instructions](#instructions)
+4. [Blog](#blog)
 
 
 ## Summary: <a name="summary"></a>
@@ -40,3 +41,9 @@ There were four data files provided by Arvato for this project. The last file wa
 2. There are two spreadsheets provided in the workspace. `DIAS Information Levels - Attributes 2017.xlsx` is a top-level list of attributes and descriptions, organized by informational category. The other `DIAS Attributes - Values 2017.xlsx` is a detailed mapping of data values for each feature in alphabetical order.
 
 3. The Jupyter notebook produced a file called `kaggle_results.csv` which was submitted to Kaggle for the in-class [competition](https://www.kaggle.com/c/udacity-arvato-identify-customers).
+
+
+## Blog: <a name="blog"></>
+
+The main findings of the code can be found in the notebook.
+Blog: https://medium.com/@espring88/how-to-find-customer-segmentation-using-the-arvato-financial-service-data-udacity-capstone-b007429421e6
